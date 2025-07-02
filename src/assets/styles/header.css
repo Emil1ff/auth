@@ -1,0 +1,25 @@
+.burger-menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    /* background-color: blue; */
+    /* width: 30px;
+    height: 20px; */
+}
+
+.menu-item{
+    width: 20px;
+    height: 2px;
+    background-color: white;
+    margin: 1.5px 0;
+    transition: all 0.3s ease;
+}
+
+.burger-menu:hover .burger-menu:nth-child(1) {
+    position:absolute;
+    top: 0;
+    transform: translateY(4px);
+    /* transform: rotate(45deg); */
+}

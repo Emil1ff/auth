@@ -1,0 +1,130 @@
+{
+  "stats": [
+    {
+      "title": "Gəlirlər",
+      "value": 25819,
+      "unit": "AZN",
+      "change": 16.24,
+      "icon": "DollarSign"
+    },
+    {
+      "title": "Xidmətlər",
+      "value": 577,
+      "unit": "",
+      "change": -3.57,
+      "icon": "FileText"
+    },
+    {
+      "title": "Pasiyentlər",
+      "value": 318,
+      "unit": "",
+      "change": 29.08,
+      "icon": "Users"
+    },
+    {
+      "title": "Analizlər",
+      "value": 1652,
+      "unit": "",
+      "change": 19,
+      "icon": "Activity"
+    }
+  ],
+  "doctorStats": [
+    { "name": "Dr. Elçin Əliyev", "value": 100 },
+    { "name": "Dr. Leyla Məmmədova", "value": 90 },
+    { "name": "Dr. Ramin Hüseynov", "value": 85 },
+    { "name": "Dr. Aytən Quliyeva", "value": 80 },
+    { "name": "Dr. Tural İsmayılov", "value": 70 },
+    { "name": "Dr. Kənan əhmədov", "value": 95 },
+    { "name": "Dr. Gülnar Bayramova", "value": 75 },
+    { "name": "Dr. Lamiyə Musayeva", "value": 65 },
+    { "name": "Dr. Ağakərim Ağazadə", "value": 60 },
+    { "name": "Dr. Yusif Qızov", "value": 55 },
+    { "name": "Dr. Elxan Vəzirov", "value": 50 },
+    { "name": "Dr. Nazim Şukürov", "value": 45 },
+    { "name": "Dr. Səxavət Abıanov", "value": 35 },
+    { "name": "Dr. Nigar Əliyeva", "value": 30 },
+    { "name": "Dr. Fəridə Məmmədova", "value": 25 },
+    { "name": "Dr. Rəşad Quliyev", "value": 20 },
+    { "name": "Dr. Sevda İsmayılova", "value": 15 },
+    { "name": "Dr. Elvin Əliyev", "value": 10 },
+    { "name": "Dr. Aysel Məmmədli", "value": 5 }
+  ],
+  "announcements": [
+    {
+      "text": "Səhiyyə Nazirliyi Zəngilan və Cəbrayıl rayonlarında şəhəri...",
+      "date": "2024-05-20",
+      "color": "blue"
+    },
+    {
+      "text": "Ərizə  ",
+      "date": "2025-03-31",
+      "color": "green"
+    },
+    {
+      "text": "Səhiyyə Nazirliyi Zəngilan və Cəbrayıl rayonlarında şəhəri...",
+      "date": "2024-05-20",
+      "color": "purple"
+    },
+    {
+      "text": "Səhiyyə Nazirliyi müxtəsəsis‑eksperti, terapevt...",
+      "date": "2024-05-20",
+      "color": "orange"
+    },
+    {
+      "text": "Ərizə  ",
+      "date": "2024-05-20",
+      "color": "red"
+    },
+    {
+      "text": "Səhiyyə Nazirliyi Zəngilan və Cəbrayıl rayonlarında şəhəri...",
+      "date": "2024-05-20",
+      "color": "blue"
+    },
+    {
+      "text": "Səhiyyə Nazirliyi müxtəsəsis‑eksperti, terapevt...",
+      "date": "2024-05-20",
+      "color": "green"
+    },
+    {
+      "text": "Səhiyyə Nazirliyi Zəngilan və Cəbrayıl rayonlarında şəhəri...",
+      "date": "2024-05-20",
+      "color": "purple"
+    },
+    {
+      "text": "Səhiyyə Nazirliyi müxtəsəsis‑eksperti, terapevt...",
+      "date": "2024-05-20",
+      "color": "orange"
+    },
+    {
+      "text": "Ərizə  ",
+      "date": "2024-05-20",
+      "color": "red"
+    },
+    {
+      "text": "Səhiyyə Nazirliyi Zəngilan və Cəbrayıl rayonlarında şəhəri...",
+      "date": "2024-05-20",
+      "color": "blue"
+    },
+    {
+      "text": "Səhiyyə Nazirliyi müxtəsəsis‑eksperti, terapevt...",
+      "date": "2024-05-20",
+      "color": "green"
+    },
+    {
+      "text": "Səhiyyə Nazirliyi Zəngilan və Cəbrayıl rayonlarında şəhəri...",
+      "date": "2024-05-20",
+      "color": "purple"
+    },
+    {
+      "text": "Səhiyyə Nazirliyi müxtəsəsis‑eksperti, terapevt...",
+      "date": "2024-05-20",
+      "color": "orange"
+    },
+    {
+      "text": "Ərizə  ",
+      "date": "2024-05-20",
+      "color": "red"
+    }
+  ]
+}

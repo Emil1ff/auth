@@ -1,0 +1,32 @@
+
+
+.card{
+    max-width: 475px !important;
+    width: 100%;
+}
+
+.auth-main::after {
+    content: "";
+    position: absolute;
+    background-image: url("../images/bg/auth-background.png") !important;;
+    height: 100vh;
+    width: 350px;
+    background-size: cover;
+    right: 0;
+}
+
+@media  (max-width: 1300px) {
+    .auth-main::after {
+        display: none;
+    }
+    .card {
+        width: 100% !important;
+    }
+    
+}
+
+@media  (max-width: 476px) {
+    .btn{
+        justify-content: center;
+    }
+}
